@@ -1,0 +1,25 @@
+button{
+  width:250px ;
+  height: 80px;
+  font-size: 35px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color:white;
+  border: 5px solid black;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+
+}
+/*pointer manito*/
+
+button:hover {
+    background-color: aqua;
+}
+
+.boton-click{
+    background-color: blueviolet;
+}
+.boton-reiniciar{
+    background-color:cornflowerblue;
+}
